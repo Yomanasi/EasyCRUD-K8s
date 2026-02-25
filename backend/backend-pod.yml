@@ -9,4 +9,4 @@ spec:
     - name: backend
       image: mimanasi/backend:v2
       ports:
-        - containerPort: 8080
+        - containerPort: 80
